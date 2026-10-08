@@ -11,6 +11,7 @@
 
 int main(void)
 {
+    printf("coucou");
     Global_Init();
 
     while (1)
